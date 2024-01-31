@@ -1,14 +1,12 @@
 
- # wex OS 
-WITAJCIE W SYSTEMIE WEXos NA KOMPUTERY, LEKKI ,PIĘKNY 
-  |POLISCH DYSTRIBUTION LINUX|
-
-
-TO PROJEKT SYSTEMU , na podstawie jądra linuxa, ZACZĘTY 14.12.2023r.
-# WexOS kiedy?
-data ukończenia to 1.01.2026r
-
-
+# wexOS
+WELCOME TO THE WEXOS SYSTEM FOR COMPUTERS, LIGHT AND BEAUTIFUL
+  
+  |POLISCH DISTRIBUTION LINUX|
+-                             -
+THIS IS A SYSTEM PROJECT, based on the Linux kernel, STARTED on December 14, 2023.
+# WexOS when?
+completion date is January 1, 2026
              
 ![obraz](https://github.com/pawcio06141/WexOS/assets/157916170/5cbeb4d9-8a47-441c-b798-befb2e3a6208)
 
