@@ -1,11 +1,12 @@
-             # WEXos 27.01.2024.r
-WITAJCIE W SYSTEMIE WEXos NA KOMPUTERY, LEKKI ,PIĘKNY 
-  |SYSTEM TWOŻONY W POLSCE|
-      AKTUALNA WERSJA: 0.1 BETA
-| SYSTEM Z DYSTTRYBUCJI WEX .| 
-__TO PROJEKT SYSTEMU , na podstawie jądra linuxa, ZACZĘTY 14.12.2023.R , BĘDZIE ON LEKKI NA STARE URZĄDZENIA._
-                  
 
+ # wex OS 
+WITAJCIE W SYSTEMIE WEXos NA KOMPUTERY, LEKKI ,PIĘKNY 
+  |POLISCH DYSTRIBUTION LINUX|
+
+
+TO PROJEKT SYSTEMU , na podstawie jądra linuxa, ZACZĘTY 14.12.2023r.
+# WexOS kiedy?
+data ukończenia to 1.01.2026r
 
 
              
